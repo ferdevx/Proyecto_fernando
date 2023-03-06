@@ -1,0 +1,28 @@
+#header{
+    display: flex;
+    justify-content: space-between;
+    height:100px;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    padding: 0px 20px;
+}
+.logoh img{
+    max-height: 80px;
+   }
+
+
+.banner{
+    width: 100%;
+    display:block;
+    height: 45vh;
+    background-image: url("../../../assets/banner.jpg");
+    background-position: 70% 50%;
+    background-size:cover;
+}
+.colita{
+    display: flex;
+    flex-direction: row;
+    width: auto;
+    align-items: center;
+    height: 100%;
+     }
