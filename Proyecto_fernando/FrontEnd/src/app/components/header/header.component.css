@@ -25,4 +25,10 @@
     width: auto;
     align-items: center;
     height: 100%;
-     }
+    max-width: 60%;
+    flex-wrap: nowrap;
+    }
+
+.colita img{
+    max-width: 100%;;
+ }
